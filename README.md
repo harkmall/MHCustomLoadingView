@@ -13,7 +13,7 @@ To stop it animating and remove it from the view use
 
 And if you want to start it again use
 
-		[[CustomLoadingHUD sharedInstance] startAnimatingInView:<view>];
+	[[CustomLoadingHUD sharedInstance] startAnimatingInView:<view>];
 
 ##License
 BSD License pretty much. PLZ don't steal it and call it your own, k thx. But feel free to make changes to make it better!
